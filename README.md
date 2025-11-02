@@ -4,6 +4,7 @@ This project demonstrates how to build an end-to-end cloud data pipeline using A
 The pipeline automates the ingestion, transformation, storage, and visualization of large datasets—specifically the Spotify Dataset 2023.
 
 By leveraging AWS services such as S3, Glue, Athena, and QuickSight, this project showcases a scalable and cost-effective way to implement modern data analytics architecture in the cloud.
+<img width="1126" height="4" alt="image" src="https://github.com/user-attachments/assets/3effa19c-452f-49a1-81fe-ad87d2001acf" />
 
 🧱 Architecture
 
